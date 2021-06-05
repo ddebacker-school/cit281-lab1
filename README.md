@@ -1,9 +1,12 @@
 # cit281-lab1
 
 # Purpose
-- Use CLI commands for git control
-- Practice with github cloning
+- Intro to VScode
+- Intro to Node.js and npm
+- Intro to git
+- Intro to POSTMAN
 
 # Takeaways
-- learned CLI commands git init, status, add, commit, clone, branch
-- learned what to add in .gitignore
+- learned CLI commands like mkdir, cd, dir, > *.txt
+- VSCode keyboard shortcuts 
+- Ran serverside js through node
